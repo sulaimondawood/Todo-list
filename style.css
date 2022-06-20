@@ -4,7 +4,7 @@
 	font-family: sans-serif;
 }
 body {
-	background-color: aliceblue;
+	background-color: #eee;
 }
 
 .center {
@@ -55,7 +55,9 @@ h1 {
 	align-items: center;
 }
 .input[type="text"] {
-	background-color: aliceblue;
+	/* background-color: aliceblue; */
+	background-color: #eee;
+
 	border: none;
 	width: 25rem;
 	height: 40px;
