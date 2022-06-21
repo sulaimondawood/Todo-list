@@ -160,7 +160,7 @@ h1 {
 	.list-container .list p {
 		font-size: 12px;
 		max-width: 350px;
-		color: red;
+		/* color: red; */
 	}
 }
 
@@ -168,7 +168,7 @@ h1 {
 	.list-container .list p {
 		font-size: 12px;
 		max-width: 250px;
-		color: green;
+		/* color: green; */
 	}
 	.container {
 		/* position: relative; */
@@ -180,7 +180,7 @@ h1 {
 	.list-container .list p {
 		font-size: 12px;
 		max-width: 200px;
-		color: green;
+		/* color: green; */
 	}
 	.container {
 		/* position: relative; */
